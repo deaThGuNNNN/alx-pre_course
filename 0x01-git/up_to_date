@@ -1,1 +1,1 @@
-git log --oneline
+git log -p
