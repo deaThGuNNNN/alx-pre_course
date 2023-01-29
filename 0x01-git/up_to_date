@@ -1,1 +1,1 @@
-git show
+git diff main..HEAD
